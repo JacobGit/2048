@@ -12,7 +12,8 @@ body {
 
 div {
   margin: 10px;
-  color: black;
+  background-color: black;
+  padding: 20px;
 }
 
 input {
